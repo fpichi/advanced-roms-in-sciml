@@ -15,7 +15,7 @@ Time-dependent problems are addressed via several methodologies, trying to captu
 
 Finally, Neural Operator learning, introducing powerful new paradigms such as Deep Operator Networks (DeepONet) and Fourier Neural Operators (FNO) are presented as a way to learn mappings between function spaces.
 
-We will employ several open source packages: FEniCS, RBniCS, MLniCS, GGCA-ROM, and GFN, allowing the students to generate new benchmarks to test different methodologies and investigate the properties of each technique. The tutorials will run on the cloud service provided by Google Colab, so that no local installation is required. 
+We will employ several open source packages: [FEniCS](https://fenicsproject.org/download/archive/), [RBniCS](https://www.rbnicsproject.org/), [MLniCS](https://github.com/MLniCS/MLniCS), [GGCA-ROM](https://github.com/fpichi/gca-rom), and [GFN](https://github.com/Oisin-M/GFN), allowing the students to generate new benchmarks to test different methodologies and investigate the properties of each technique. The tutorials will run on the cloud service provided by Google Colab, so that no local installation is required. 
 
 Info and updates can be found at the GitHub page: https://github.com/fpichi/advanced-roms-in-sciml
 
