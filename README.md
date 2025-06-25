@@ -40,9 +40,9 @@ Practical session:
 | Wed 18 June 2025 |  14-16    | Practice | 134 | _FFN, CNN, backpropagation, optimization_ |
 | Fri 20 June 2025 |  11-13    | Lecture  | 134 | **From projection based to data-driven ROMs** |
 | Fri 20 June 2025 |  14-16    | Practice | 134 | _RBniCS to MLniCS_ |
-| Mon 23 June 2025 |  11-13    | Lecture  | 134 | **GNNs based architectures** |
+| Mon 23 June 2025 |  11-13    | Lecture  | 134 | **GNNs based architectures 1** |
 | Mon 23 June 2025 |  14-16    | Practice | 134 | _GCA-ROM, GFN, MeshGraphNet_ |
-| Wed 25 June 2025 |  11-13    | Lecture  | 134 | **Time-dependent problems** |
-| Wed 25 June 2025 |  14-16    | Practice | 134 | _Sindy, NODEs, DMD, OpInf_ |
-| Wed 02 July 2025 |  11-13    | Lecture  | 134 | **Neural Operators** |
-| Wed 02 July 2025 |  14-16    | Practice | 134 | _DeepONet, FNO_ |
+| Wed 25 June 2025 |  11-13    | Lecture  | 134 | **GNNs based architectures 2** |
+| Wed 25 June 2025 |  14-16    | Practice | 134 | _GCA-ROM, GFN, MeshGraphNet_|
+| Wed 02 July 2025 |  11-13    | Lecture  | 134 | **Time-dependent problems and Neural Operators** |
+| Wed 02 July 2025 |  14-16    | Practice | 134 | _Sindy, NODEs, DMD, OpInf_, _DeepONet, FNO_ |
