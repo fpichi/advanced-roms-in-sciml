@@ -1,5 +1,5 @@
 # advanced-roms-in-sciml
-Material for the "Advanced reduced order models in scientific machine learning" course, Academic Year 2024-2025. Ph.D. course offered by SISSA.
+Material for the "Advanced reduced order models in scientific machine learning" course, Academic Year 2025-2026. Ph.D. course offered by SISSA.
 
 
 This course aims to provide a wide overview on novel strategies combining ideas from Reduced Order Modeling (ROM) and Scientific Machine Learning (SciML). The main goal is to investigate the great potential and the possible limitations of state-of-the-art methodologies to efficiently retrieve solutions of parametrized PDEs for computational mechanics problems.
@@ -11,38 +11,25 @@ Subsequent modules are devoted to more advanced machine learning architectures a
 
 Specifically, we explore Graph Neural Networks (GNNs) and related strategies to embed geometrical bias and information in the learning phase to obtain more consistent and accurate results when dealing with complex and parametrized domains. 
 
-Time-dependent problems are addressed via several methodologies, trying to capture with different assumptions the evolution of a dynamical system. Examples of techniques that will be discussed are Sparse Identification of Nonlinear Dynamics (SINDy), Neural Ordinary Differential Equations (NODEs), Dynamic Mode Decomposition (DMD), and Operator Inference (OpInf).
+Time-dependent problems are addressed via several methodologies, trying to capture with different assumptions the evolution of a dynamical system. Examples of techniques that will be discussed are Sparse Identification of Nonlinear Dynamics (SINDy), Neural Ordinary Differential Equations (NODEs), Latend Dynamics (LD), Dynamic Mode Decomposition (DMD), and Operator Inference (OpInf).
 
 Finally, Neural Operator learning, introducing powerful new paradigms such as Deep Operator Networks (DeepONet) and Fourier Neural Operators (FNO) are presented as a way to learn mappings between function spaces.
 
-We will employ several open source packages: [FEniCS](https://fenicsproject.org/download/archive/), [RBniCS](https://www.rbnicsproject.org/), [MLniCS](https://github.com/MLniCS/MLniCS), [GGCA-ROM](https://github.com/fpichi/gca-rom), and [GFN](https://github.com/Oisin-M/GFN), allowing the students to generate new benchmarks to test different methodologies and investigate the properties of each technique. The tutorials will run on the cloud service provided by Google Colab, so that no local installation is required. 
+We will employ several open source packages: [FEniCS](https://fenicsproject.org/download/archive/), [RBniCS](https://www.rbnicsproject.org/), [MLniCS](https://github.com/MLniCS/MLniCS), [GCA-ROM](https://github.com/fpichi/gca-rom), and [GFN](https://github.com/Oisin-M/GFN), allowing the students to generate new benchmarks to test different methodologies and investigate the properties of each technique. The tutorials will run on the cloud service provided by Google Colab, so that no local installation is required. 
 
 Info and updates can be found at the GitHub page: https://github.com/fpichi/advanced-roms-in-sciml
 
-Theoretical lectures:
-18/06, 11-13, Room A-134
-20/06, 11-13, Room A-134
-23/06, 11-13, Room A-134
-25/06, 11-13, Room A-134
-02/07, 11-163, Room A-134
-
-Practical session:
-18/06, 14-16, Room A-134
-20/06, 14-16, Room A-134
-23/06, 14-16, Room A-134
-25/06, 14-16, Room A-134
-02/07, 14-16, Room A-134
 
 
 | Day | Time | Type | Room | Topic |
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| Wed 18 June 2025 |  11-13    | Lecture  | 134 | **Introduction to Scientific Machine Learning** |
-| Wed 18 June 2025 |  14-16    | Practice | 134 | _FFN, CNN, backpropagation, optimization_ |
-| Fri 20 June 2025 |  11-13    | Lecture  | 134 | **From projection based to data-driven ROMs** |
-| Fri 20 June 2025 |  14-16    | Practice | 134 | _RBniCS to MLniCS_ |
-| Mon 23 June 2025 |  11-13    | Lecture  | 134 | **GNNs based architectures 1** |
-| Mon 23 June 2025 |  14-16    | Practice | 134 | _GCA-ROM, GFN, MeshGraphNet_ |
-| Wed 25 June 2025 |  11-13    | Lecture  | 134 | **GNNs based architectures 2** |
-| Wed 25 June 2025 |  14-16    | Practice | 134 | _GCA-ROM, GFN, MeshGraphNet_|
-| Wed 02 July 2025 |  11-13    | Lecture  | 134 | **Time-dependent problems and Neural Operators** |
-| Wed 02 July 2025 |  14-16    | Practice | 134 | _Sindy, NODEs, DMD, OpInf_, _DeepONet, FNO_ |
+| Tue 9 June 2026 |  11-13    | Lecture  | 134 | **Introduction to Scientific Machine Learning** |
+| Tue 9 June 2026 |  14-16    | Lecture | 134 | _FFN, CNN, backpropagation, optimization_ |
+| Thu 20 June 2026 |  11-13    | Lecture  | 134 | **From projection based to data-driven ROMs** |
+| Thu 20 June 2026 |  14-16    | Lecture | 134 | _RBniCS to MLniCS_ |
+| Fri 23 June 2026 |  11-13    | Lecture  | 134 | **GNNs based architectures 1** |
+| Fri 23 June 2026 |  14-16    | Lecture | 134 | _GCA-ROM, GFN, MeshGraphNet_ |
+| Tue 25 June 2026 |  11-13    | Lecture  | 134 | **GNNs based architectures 2** |
+| Tue 25 June 2026 |  14-16    | Lecture | 134 | _GCA-ROM, GFN, MeshGraphNet_|
+| Thu 02 July 2026 |  11-13    | Lecture  | 134 | **Time-dependent problems and Neural Operators** |
+| Thu 02 July 2026 |  14-16    | Lecture | 134 | _Sindy, NODEs, DMD, OpInf_, _DeepONet, FNO_ |
