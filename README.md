@@ -25,11 +25,11 @@ Info and updates can be found at the GitHub page: https://github.com/fpichi/adva
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
 | Tue 9 June 2026 |  11-13  | Lecture  | 134 | **Introduction to Scientific Machine Learning** |
 | Tue 9 June 2026 |  14-16  | Lecture | 134 | _FFN, CNN, backpropagation, optimization_ |
-| Thu 20 June 2026 |  11-13  | Lecture  | 134 | **From projection based to data-driven ROMs** |
-| Thu 20 June 2026 |  14-16  | Lecture | 134 | _RBniCS to MLniCS_ |
-| Fri 23 June 2026 |  11-13  | Lecture  | 134 | **GNNs based architectures 1** |
-| Fri 23 June 2026 |  14-16  | Lecture | 134 | _GCA-ROM, GFN, MeshGraphNet_ |
-| Tue 25 June 2026 |  11-13  | Lecture  | 134 | **GNNs based architectures 2** |
-| Tue 25 June 2026 |  14-16  | Lecture | 134 | _GCA-ROM, GFN, MeshGraphNet_|
-| Thu 02 July 2026 |  11-13  | Lecture  | 134 | **Time-dependent problems and Neural Operators** |
-| Thu 02 July 2026 |  14-16  | Lecture | 134 | _Sindy, NODEs, DMD, OpInf_, _DeepONet, FNO_ |
+| Thu 11 June 2026 |  11-13  | Lecture  | 134 | **From projection based to data-driven ROMs** |
+| Thu 11 June 2026 |  14-16  | Lecture | 134 | _RBniCS to MLniCS_ |
+| Fri 19 June 2026 |  11-13  | Lecture  | 134 | **GNNs based architectures 1** |
+| Fri 19 June 2026 |  14-16  | Lecture | 134 | _GCA-ROM, GFN, MeshGraphNet_ |
+| Tue 23 June 2026 |  11-13  | Lecture  | 134 | **GNNs based architectures 2** |
+| Tue 23 June 2026 |  14-16  | Lecture | 134 | _GCA-ROM, GFN, MeshGraphNet_|
+| Thu 25 June 2026 |  11-13  | Lecture  | 134 | **Time-dependent problems and Neural Operators** |
+| Thu 25 June 2026 |  14-16  | Lecture | 134 | _Sindy, NODEs, DMD, OpInf, DeepONet, FNO_ |
